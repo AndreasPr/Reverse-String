@@ -14,7 +14,7 @@ public class ReverseString {
 
     public static void main(String args[]){
         String str = "Andreas";
-//        char[] convertStringToArray = str.toCharArray();
         reverseStringInput(str);
     }
+
 }
